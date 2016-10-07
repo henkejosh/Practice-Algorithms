@@ -1,4 +1,4 @@
-require 'algorithms'
+require_relative '../lib/algorithms'
 require 'set'
 
 describe 'digital_root' do
